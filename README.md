@@ -1,1 +1,1 @@
-See my blog post for details.
+Simple LDA Gibbs sampling implementation.
